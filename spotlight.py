@@ -62,4 +62,4 @@ if __name__ == '__main__':
     PATH = raw_input("Enter directory path:")
     get_spotlight_wallpapers(PATH)
     print "Lockscreen images have been copied to \""+PATH+"\""
-    
+    print "New line add43d " 

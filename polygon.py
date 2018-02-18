@@ -20,4 +20,4 @@ while True:
     pygame.display.update()
 
 
-print "My new line"
+print "My dweljkfdwejwj"

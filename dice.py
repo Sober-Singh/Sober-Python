@@ -34,3 +34,4 @@ d1 = Die()
 d.set_sides(4)
 d1.set_sides(4)
 print (d.roll(), d1.roll())
+print "Done"
